@@ -1,0 +1,41 @@
+C:\Users\napang\documents\visual studio 2010\Projects\tempahbaju\tempahbaju\bin\Debug\tempahbaju.exe
+C:\Users\napang\documents\visual studio 2010\Projects\tempahbaju\tempahbaju\bin\Debug\tempahbaju.pdb
+C:\Users\napang\documents\visual studio 2010\Projects\tempahbaju\tempahbaju\bin\Debug\tempahbaju.xml
+C:\Users\napang\documents\visual studio 2010\Projects\tempahbaju\tempahbaju\obj\x86\Debug\tempahbaju.vbprojResolveAssemblyReference.cache
+C:\Users\napang\documents\visual studio 2010\Projects\tempahbaju\tempahbaju\obj\x86\Debug\tempahbaju.Resources.resources
+C:\Users\napang\documents\visual studio 2010\Projects\tempahbaju\tempahbaju\obj\x86\Debug\tempahbaju.vbproj.GenerateResource.Cache
+C:\Users\napang\documents\visual studio 2010\Projects\tempahbaju\tempahbaju\obj\x86\Debug\tempahbaju.exe
+C:\Users\napang\documents\visual studio 2010\Projects\tempahbaju\tempahbaju\obj\x86\Debug\tempahbaju.xml
+C:\Users\napang\documents\visual studio 2010\Projects\tempahbaju\tempahbaju\obj\x86\Debug\tempahbaju.pdb
+C:\Users\napang\documents\visual studio 2010\Projects\tempahbaju\tempahbaju\bin\Debug\MetroFramework.dll
+C:\Users\napang\documents\visual studio 2010\Projects\tempahbaju\tempahbaju\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\napang\documents\visual studio 2010\Projects\tempahbaju\tempahbaju\obj\x86\Debug\tempahbaju.form1.resources
+C:\Users\napang\documents\visual studio 2010\Projects\tempahbaju\tempahbaju\obj\x86\Debug\tempahbaju.Form2.resources
+C:\Users\napang\documents\visual studio 2010\Projects\tempahbaju\tempahbaju\bin\Debug\tempahbaju.exe.config
+C:\Users\napang\Documents\Visual Studio 2010\Projects\tempahbaju\tempahbaju\bin\Debug\Database2.accdb
+C:\Users\napang\Documents\Visual Studio 2010\Projects\tempahbaju\tempahbaju\obj\x86\Debug\tempahbaju.Form3.resources
+C:\Users\napang\Documents\Visual Studio 2010\Projects\tempahbaju\tempahbaju\obj\x86\Debug\tempahbaju.Form4.resources
+C:\Users\napang\Documents\Visual Studio 2010\Projects\tempahbaju\tempahbaju\obj\x86\Debug\tempahbaju.Form5.resources
+D:\documents\Projects\tempahbaju\tempahbaju\bin\Debug\tempahbaju.exe.config
+D:\documents\Projects\tempahbaju\tempahbaju\obj\x86\Debug\tempahbaju.exe
+D:\documents\Projects\tempahbaju\tempahbaju\obj\x86\Debug\tempahbaju.xml
+D:\documents\Projects\tempahbaju\tempahbaju\obj\x86\Debug\tempahbaju.pdb
+D:\documents\Projects\tempahbaju\tempahbaju\bin\Debug\Database2.accdb
+D:\documents\Projects\tempahbaju\tempahbaju\bin\Debug\tempahbaju.exe
+D:\documents\Projects\tempahbaju\tempahbaju\bin\Debug\tempahbaju.pdb
+D:\documents\Projects\tempahbaju\tempahbaju\bin\Debug\tempahbaju.xml
+D:\documents\Projects\tempahbaju\tempahbaju\bin\Debug\MetroFramework.dll
+D:\documents\Projects\tempahbaju\tempahbaju\bin\Debug\MetroFramework.Fonts.dll
+D:\documents\Projects\tempahbaju\tempahbaju\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\documents\Projects\tempahbaju\tempahbaju\obj\x86\Debug\tempahbaju.form1.resources
+D:\documents\Projects\tempahbaju\tempahbaju\obj\x86\Debug\tempahbaju.Form2.resources
+D:\documents\Projects\tempahbaju\tempahbaju\obj\x86\Debug\tempahbaju.Form3.resources
+D:\documents\Projects\tempahbaju\tempahbaju\obj\x86\Debug\tempahbaju.Form4.resources
+D:\documents\Projects\tempahbaju\tempahbaju\obj\x86\Debug\tempahbaju.Form5.resources
+D:\documents\Projects\tempahbaju\tempahbaju\obj\x86\Debug\tempahbaju.Resources.resources
+D:\documents\Projects\tempahbaju\tempahbaju\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\documents\Projects\tempahbaju\tempahbaju\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\vb\old vb\book shirt\tempahbaju\tempahbaju\bin\Debug\tempahbaju.exe.config
+E:\vb\old vb\book shirt\tempahbaju\tempahbaju\obj\x86\Debug\tempahbaju.exe
+E:\vb\old vb\book shirt\tempahbaju\tempahbaju\obj\x86\Debug\tempahbaju.xml
+E:\vb\old vb\book shirt\tempahbaju\tempahbaju\obj\x86\Debug\tempahbaju.pdb
